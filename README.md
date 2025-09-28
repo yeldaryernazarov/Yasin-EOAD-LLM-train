@@ -59,6 +59,11 @@ Where:
 Plain text files (`.txt`) containing speech transcripts.
 
 ## Quick Start
+### 0. Easy setup
+```bash
+python setup.py
+python quick_start.py
+```
 
 ### 1. Run Full Pipeline
 ```bash
